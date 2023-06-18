@@ -18,4 +18,3 @@ def main_function(name=None):
                     print(f'{hide_card(i["from"])} -> {hide_card(i["to"])}')
                 print(operation)
                 print()
-
